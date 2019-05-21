@@ -8,6 +8,7 @@ public class test {
 		System.out.println("第四次");
 		System.out.println("dev第一次");
 		System.out.println("dev第二次");
+		System.out.println("master向前一步");
 	}
 
 }
